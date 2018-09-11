@@ -21,8 +21,28 @@ echo $0
 
 whoami + exit (sh)
 
-pwd/man pwd
+pwd
 
 ls(man)/ls - l(1)/ls -a(viss)/ls -la(kopa) - mapes
 
 history > history_20180904.txt
+
+cd / - pariet . - paliek .. - augstak
+
+man - paliga
+
+mkdir - radit
+
+rmdir - dzest rmdir -r rmdir -f rm **
+
+echo "" echo -e "" - atstarpojums
+
+echo "" > - mainit echo "" >> - papildat
+
+cat - radit saturs
+
+nano - mainit saturs
+
+mv - parvietot/mainit vardu
+
+chmod - tiesibas
