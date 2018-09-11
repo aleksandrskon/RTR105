@@ -1,0 +1,122 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  pwd
+    5  ls
+    6  ls -l
+    7  cd de
+    8  cd Desktop/
+    9  pwd
+   10  ls -l
+   11  cd /home/user
+   12  pwd
+   13  cd Desktop/
+   14  ls -la
+   15  cd .
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  cd ..
+   20  pwd
+   21  cd ..
+   22  pwd
+   23  cd /home/user
+   24  pwd
+   25  cd /
+   26  pwd
+   27  cd ~
+   28  pwd
+   29  cd /
+   30  pwd
+   31  cd
+   32  pwd
+   33  cd ../
+   34  cd ~/
+   35  pwd
+   36  ls -l
+   37  mkdir ManaMape
+   38  ls -l
+   39  cd ManaMape
+   40  pwd
+   41  ls
+   42  ls -la
+   43  cd .
+   44  pwd
+   45  cd ..
+   46  pwd
+   47  rmdir ManaMape
+   48  ls
+   49  mkdir ManaMape
+   50  ls
+   51  cd ..
+   52  ls -l
+   53  cd ..
+   54  ls -l
+   55  pwd
+   56  rmdir ManaMape
+   57  cd home/
+   58  rmdir ManaMape
+   59  cd ..
+   60  man rmdir
+   61  rm -r ManaMape/
+   62  ls -l
+   63  cd home/user
+   64  ls -l
+   65  rm -r ManaMape/
+   66  ls -l
+   67  man echo
+   68  echo "Teksts"
+   69  echo "Teksts Teksts Teksts"
+   70  echo -e "Teksts Teksts Teksts"
+   71  echo -e "Teksts/n Tekst/ns Teksts"
+   72  echo -e "Teksts\n Teksts\n Teksts"
+   73  echo "Teksts" > fails.txt
+   74  ls
+   75  ls -l
+   76  echo "Teksts" > ../fails.txt
+   77  cd ..
+   78  pwd
+   79  cd ..
+   80  ls -l
+   81  cd
+   82  pwd
+   83  ls -l
+   84  cat fails.txt
+   85  echo "Cits Teksts" > ../fails.txt
+   86  echo "Cits Teksts" > fails.txt
+   87  cat fails.txt
+   88  echo "Teksts" > fails.txt
+   89  cat fails.txt
+   90  echo "Cits Teksts" >> fails.txt
+   91  cat fails.txt
+   92  ls -l
+   93  ls -l fails.txt
+   94  history
+   95  mam chmod
+   96  man chmod
+   97  chmod 700 fails.txt
+   98  ls -l
+   99  chmod 400 fails.txt
+  100  ls -l
+  101  echo "Teksts" > fails.txt
+  102  chmod 600 fails.txt
+  103* mnvb
+  104  nano fails.txt 
+  105  cp fails
+  106  ls -l
+  107  nano fails.txt 
+  108  ls -l
+  109  cp fails
+  110  cp fails.txt
+  111  mv fails.txtrails 31.txt
+  112  mv fails.txt fails 31.txt
+  113  ls -l
+  114  mv fails.txt fails31.txt
+  115* 
+  116  nano fails.txt 
+  117  ls -l
+  118  cp fails1.txt
+  119  rm *3*
+  120  ls -l
+  121  history
+  122  history > history_20180911
