@@ -5,10 +5,6 @@ ctrl+alt+t - terminal
 
 firefox
 
-VirtualBox --startvm XP
-
-quartus
-
 uname - sistema uname -s uname -r 
 
 history 
