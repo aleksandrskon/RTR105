@@ -43,6 +43,8 @@ cat - radit saturs
 
 nano - mainit saturs
 
+cp - kopet
+
 mv - parvietot/mainit vardu
 
 chmod - tiesibas
