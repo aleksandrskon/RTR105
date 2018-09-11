@@ -9,11 +9,11 @@ VirtualBox --startvm XP
 
 quartus
 
-uname/man uname/uname -s/uname -r - sistema
+uname - sistema uname -s uname -r 
 
 history 
 
-who/whoami - lietotajs
+who whoami - lietotajs
 
 sh - valoda
 
@@ -23,30 +23,28 @@ whoami + exit (sh)
 
 pwd - radit vietu
 
-ls(man)/ls - l(1)/ls -a(viss)/ls -la(kopa) - mapes
+ls - radit failus ls - l - visie faili ls -a ls -la
 
-history > history_20180904.txt
+cd /(home/user) - pariet cd . - paliek cd .. - augstak
 
-cd / - pariet . - paliek .. - augstak
+man (cd) - paliga
 
-man - paliga
+mkdir (mape) - radit mape
 
-mkdir - radit mape
+rmdir (mape) - dzest rmdir -r rmdir -f rm **
 
-rmdir - dzest rmdir -r rmdir -f rm **
+echo "(teksts)" echo -e "(teksts)" - atstarpojums
 
-echo "" echo -e "" - atstarpojums
+echo "(teksts)" > - mainit echo "(teksts)" >> - papildinat
 
-echo "" > - mainit echo "" >> - papildinat
+cat (fails) - radit saturs
 
-cat - radit saturs
-
-nano - mainit saturs
+nano (fails) - mainit saturs
 
 cp - kopet
 
 mv - parvietot/mainit vardu
 
-chmod - tiesibas
+chmod (0 fails) - tiesibas
 
-setxkbmap - valoda
+setxkbmap (lv) - valoda
