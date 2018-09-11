@@ -21,7 +21,7 @@ echo $0
 
 whoami + exit (sh)
 
-pwd
+pwd - radit vietu
 
 ls(man)/ls - l(1)/ls -a(viss)/ls -la(kopa) - mapes
 
@@ -31,13 +31,13 @@ cd / - pariet . - paliek .. - augstak
 
 man - paliga
 
-mkdir - radit
+mkdir - radit mape
 
 rmdir - dzest rmdir -r rmdir -f rm **
 
 echo "" echo -e "" - atstarpojums
 
-echo "" > - mainit echo "" >> - papildat
+echo "" > - mainit echo "" >> - papildinat
 
 cat - radit saturs
 
@@ -48,3 +48,5 @@ cp - kopet
 mv - parvietot/mainit vardu
 
 chmod - tiesibas
+
+setxkbmap - valoda
