@@ -51,4 +51,14 @@ echo $PATH
 
 PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user
 
-git clone https://github.com/aleksandrskon/RTR105
+git clone https://
+
+python/ipython/idle &
+
+__builtins__
+
+__doc__
+
+__.abs.__
+
+
