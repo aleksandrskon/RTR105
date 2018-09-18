@@ -44,3 +44,11 @@ mv - parvietot/mainit vardu
 chmod (0 fails) - tiesibas
 
 setxkbmap (lv) - valoda
+
+echo -e "mkdir Mape/ncd Mape" > create_in.sh
+
+echo $PATH
+
+PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user
+
+git clone https://github.com/aleksandrskon/RTR105

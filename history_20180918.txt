@@ -1,0 +1,80 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo -e "mkdir Mape/ncd Mape" > create_in.sh
+    4  ls
+    5  ls -l
+    6  cat create_in.sh 
+    7  create
+    8  create in
+    9  echo $PATH
+   10  whereis firefox
+   11  pwd
+   12* Path "/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+   13* 
+   14  echo $PATH
+   15  create_in.sh
+   16  echo $PATH
+   17  ls -l
+   18  chmod 764 create_in.sh
+   19  ls -l
+   20  create
+   21  create_in.sh
+   22  ls
+   23  create
+   24  cre
+   25  history
+   26  nano create_in.sh
+   27  create_in.sh
+   28  nano create_in.sh
+   29  create_in.sh
+   30  create
+   31  ls -l
+   32  echo $PATH
+   33  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   34  echo $PATH
+   35  create_in.sh 
+   36  nano create_in.sh
+   37  create_in.sh 
+   38  nano create_in.sh
+   39  create_in.sh 
+   40  ls -l
+   41  rmdir Mapencd
+   42  ls -l
+   43  echo $PATH
+   44  ls
+   45* 
+   46  ~/Mape
+   47  echo PATH
+   48  echo$ PATH
+   49  ech o PATH
+   50  ech $PATH
+   51  echo $PATH
+   52  ./create_in.sh 
+   53  home/uswe/create_in.sh 
+   54  home/user/create_in.sh 
+   55  /home/user/create_in.sh 
+   56  ls -l
+   57  rmdir Mapencd
+   58  ls -l
+   59  nano create_in.sh
+   60  pwd
+   61  ls -l
+   62  git clone https://github.com/aleksandrskon/RTR105
+   63  ls -l
+   64  RTR105
+   65  ~/RTR105
+   66  ls -l
+   67  cd RTR105
+   68  ls -l
+   69  pwd
+   70  nano READ.md
+   71  nano README.md
+   72  ls -l
+   73  nano README.md
+   74  history
+   75  nano README.md
+   76  nano gitupload
+   77  ls -l
+   78  nano gitupload
+   79  history
+   80  history > history_20180918.txt
