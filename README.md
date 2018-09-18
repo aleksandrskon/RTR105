@@ -60,5 +60,3 @@ __builtins__
 __doc__
 
 __.abs.__
-
-
