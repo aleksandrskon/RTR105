@@ -60,3 +60,6 @@ __builtins__
 __doc__
 
 __.abs.__
+
+
+float(raw_input())
