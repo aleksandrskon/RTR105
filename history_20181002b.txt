@@ -1,0 +1,45 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/aleksandrskon/RTR105
+    4  cd RTR105/
+    5  idle &
+    6  ls
+    7  ls -l
+    8  history > history_20181002a.txt
+    9  ls -l
+   10  ./gitupload 20181002_13_51
+   11  nano dgr_20181002a.py 
+   12  a_10 = 10
+   13  ls -l
+   14  rm -rf RTR105
+   15  ls -l
+   16  git clone https://github.com/aleksandrskon/RTR105
+   17  ls -l
+   18  idle &
+   19  ls -l
+   20  rm -r tabeb.py
+   21  ls -l
+   22  nano top.py
+   23  rm -r top.py
+   24  ls -l
+   25  cd RTR105/
+   26  nano top.py
+   27  nano owd.py
+   28  nano nd2.py
+   29  nano nd.py
+   30  nano nd3.py
+   31  nano nd.py
+   32  nano nd3.py
+   33  nano nd.py
+   34  nano owd.py
+   35  nano nd.py
+   36  nano owd.py
+   37  nano nd.py
+   38  rm -r owd.py
+   39  rm -r nd.py
+   40  rm -r nd2.py
+   41  rm -r nd3.py
+   42  ls -l
+   43  rm -r top.py
+   44  rm te.py
+   45  history > history_20181002b.txt
